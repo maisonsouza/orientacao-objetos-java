@@ -35,7 +35,4 @@ Nesse Projeto criamos
 * Polimorfismo ajuda a reduzir a complexidade ciclomática.
 
 ## Aumentando a flexibilidade com injeção de dependências
-* Flexibilidade para mudar o comportamento de uma classe de fora dela.
-* 
-
-
+* Flexibilidade para mudar o comportamento de uma classe de fora dela. 
